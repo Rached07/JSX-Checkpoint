@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import myWonderfulImage from "./cuisine.jpg"
 import Video from "./myVideo.mp4"
-
+import './style.css';
 function App() {
   return (
     <div className="App">
